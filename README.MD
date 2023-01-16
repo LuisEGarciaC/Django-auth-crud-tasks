@@ -1,6 +1,6 @@
-# SITIO WEB CON PYTHON DJANGO Y MYSQL
+# SITIO WEB CON PYTHON DJANGO Y DESPLIEGUE EN RENDER - GITHUB
 
-Pagina realizada como practica del canal Develoteca
+Pagina realizada como practica del canal en youtubr fazt
 
 
 ### Django CRUD con Autenticacion y Despliegue Gratuito
