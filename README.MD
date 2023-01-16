@@ -2,6 +2,8 @@
 
 Pagina realizada como practica del canal en youtubr fazt
 
+# APP completamente desplegada en render
+[Django app tasks ](https://django-tasks-crud-hfit.onrender.com/).
 
 ### Django CRUD con Autenticacion y Despliegue Gratuito
 [Link del video ](https://www.youtube.com/watch?v=e6PkGDH4wWA).
